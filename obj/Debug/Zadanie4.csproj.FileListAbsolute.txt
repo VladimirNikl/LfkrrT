@@ -1,0 +1,15 @@
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\MainWindow.g.cs
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\App.g.cs
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.cache
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4_MarkupCompile.lref
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\MainWindow.baml
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.g.resources
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.Properties.Resources.resources
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.csproj.GenerateResource.cache
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\WrsT\source\repos\012_Events\Practik\Zadanie4\obj\Debug\Zadanie4.pdb
