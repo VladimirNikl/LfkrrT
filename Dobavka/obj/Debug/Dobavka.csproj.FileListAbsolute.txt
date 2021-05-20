@@ -1,0 +1,6 @@
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\bin\Debug\Dobavka.exe.config
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\bin\Debug\Dobavka.exe
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\bin\Debug\Dobavka.pdb
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\obj\Debug\Dobavka.csproj.CoreCompileInputs.cache
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\obj\Debug\Dobavka.exe
+C:\Users\WrsT\Source\Repos\LfkrrT\Dobavka\obj\Debug\Dobavka.pdb
